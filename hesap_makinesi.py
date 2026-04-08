@@ -2,6 +2,9 @@
 sayi1 = float(input("İlk sayıyı girin: "))
 sayi2 = float(input("İkinci sayıyı girin: "))
 
+# acik kaynak kodlu bir hesap makinesi örneği
+# acik kaynak kodlu bir hesap makinesi örneği 2
+
 print("işlemler")
 print("1:toplama")
 print("2:çıkarma")
